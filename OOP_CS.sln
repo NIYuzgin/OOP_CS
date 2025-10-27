@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point", "Point\Point.csproj", "{E6FBE148-6050-47D7-9A54-8AE5C8E10B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{057AB02A-7A2F-424C-B301-14466A67F1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FBE148-6050-47D7-9A54-8AE5C8E10B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FBE148-6050-47D7-9A54-8AE5C8E10B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FBE148-6050-47D7-9A54-8AE5C8E10B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FBE148-6050-47D7-9A54-8AE5C8E10B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057AB02A-7A2F-424C-B301-14466A67F1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057AB02A-7A2F-424C-B301-14466A67F1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057AB02A-7A2F-424C-B301-14466A67F1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057AB02A-7A2F-424C-B301-14466A67F1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AA71F3-0F9E-455D-B979-FC44D5B6589B}
+	EndGlobalSection
+EndGlobal
