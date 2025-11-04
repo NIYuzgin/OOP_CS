@@ -232,10 +232,5 @@ namespace Fraction
 				else Console.WriteLine("");
 			}
 		}
-
-
-
-
-
 	}
 }
